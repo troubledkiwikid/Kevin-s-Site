@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>WEBSITE</title>
+  <h1>title</h1>
 <body>
 <h1>kevin's website</h1>
 <h2>heading 2</h2>
