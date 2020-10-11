@@ -10,4 +10,5 @@
 <p><strong>this is the first site I have made via github</strong></p>
   <a href="http://www.google.com" >this is my inserted link to google</a> <br>
   <img src='.\img\laferrafi.jpg' alt="laferrari">
+  <img src='.\img\lambo.jpg alt="lambo">
 </body>
