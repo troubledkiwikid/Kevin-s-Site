@@ -9,5 +9,5 @@
 <p>down a little more</p> 
 <p><strong>this is the first site I have made via github</strong></p>
   <a href="http://www.google.com" >this is my inserted link to google</a>
-  <img src="img_girl.jpg" alt="Girl in a jacket">
+  <img src='.\img\laferrafi.jpg' >
 </body>
